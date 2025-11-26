@@ -1,0 +1,9 @@
+# ABOUT
+
+Project created to play with frameworks/technologies:
+* xUnit
+* MinimalAPI
+* Test containers
+
+Planned:
+* API contracts

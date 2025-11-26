@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BookerAPI/BookerAPI.csproj" Id="bfbb889a-9c45-4cde-83f6-3d9fa3b35d8f" />
+  <Project Path="BookerEngineUnitTests/BookerEngineUnitTests.csproj" />
+</Solution>
