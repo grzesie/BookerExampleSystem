@@ -15,5 +15,5 @@ Planned:
 ## Start UT
 
 ```
-dotnet test --no-build
+dotnet test
 ```
